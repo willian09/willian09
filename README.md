@@ -1,6 +1,8 @@
-### Hi there 👋
-### I'm Willian, be welcome 😊 <hr>
-#### Full Stack **intern** at [4D Sistemi](https://www.4dsistemi.it/) - Italy 🇮🇹
+Hi there👋 <br>
+I'm Willian, be welcome 😊 <br>
+Full Stack **intern** at [4D Sistemi](https://www.4dsistemi.it/) - Italy <hr>
+
+My current languages:
 <div>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
@@ -8,7 +10,7 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div> <hr>
 
-### My social media
+My social media:
 <div>
   <a href="https://www.linkedin.com/in/willian-regis"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
   <a href="https://x.com/Williaun"><img width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
