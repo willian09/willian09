@@ -1,13 +1,14 @@
 Hi there👋 <br>
 I'm Willian, be welcome 😊 <br>
-Full Stack **intern** at [4D Sistemi](https://www.4dsistemi.it/) - Italy <hr>
+IT Specialist & Full Stack Developer at [Omnisyst SPA](https://www.omnisyst.it/) - Italy <hr>
 
 My current languages:
 <div>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <a href="https://it.4d.com/"><img width="50" height="50" src="https://www.solvusoft.com/file-extensions/images/developers/200x200/3571_4d-inc.png"/></a>
+  <a href="https://www.php.net/"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
+  <a href="https://laravel.com/"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/></a>
+  <a href="https://angular.io/"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg"/></a>
 </div> <hr>
 
 My social media:
