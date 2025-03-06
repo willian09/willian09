@@ -14,7 +14,6 @@ My current languages:
 My social media:
 <div>
   <a href="https://www.linkedin.com/in/willian-regis"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-  <a href="https://x.com/Williaun"><img width="50" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
 </div>
 
 
