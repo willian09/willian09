@@ -9,6 +9,7 @@ My current languages:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
   <a href="https://laravel.com/" target="_blank"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/></a>
   <a href="https://angular.io/" target="_blank"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg"/></a>
+  <a href="https://www.python.org/" target="_blank"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></a>
 </div> <hr>
 
 My social media:
