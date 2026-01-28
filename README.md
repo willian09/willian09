@@ -1,6 +1,6 @@
 Hi there👋 <br>
 I'm Willian, be welcome 😊 <br>
-IT Specialist & Full Stack Developer at [Omnisyst SPA](https://www.omnisyst.it/) - Italy <hr>
+IT Specialist & Backend Developer at [Omnisyst SPA SB](https://www.omnisyst.it/) - Italy <hr>
 
 My current languages:
 <div>
