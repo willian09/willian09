@@ -1,17 +1,17 @@
 Hi there👋 <br>
 I'm Willian, be welcome 😊 <br>
-IT Specialist & Backend Developer at [Omnisyst SPA SB](https://www.omnisyst.it/) - Italy <hr>
+RPA & AI Developer at [ATG Group]([https://www.omnisyst.it](https://www.atg-group.it/)/) - Italy <hr>
 
-My current languages:
+<!--My current languages:
 <div>
-  <a href="https://it.4d.com/" target="_blank"><img width="50" height="50" src="https://www.solvusoft.com/file-extensions/images/developers/200x200/3571_4d-inc.png"/></a>
   <a href="https://www.python.org/" target="_blank"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></a>
+  <a href="https://it.4d.com/" target="_blank"><img width="50" height="50" src="https://www.solvusoft.com/file-extensions/images/developers/200x200/3571_4d-inc.png"/></a>
   <a href="https://www.php.net/" target="_blank"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
   <a href="https://laravel.com/" target="_blank"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/></a>
   <a href="https://angular.io/" target="_blank"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg"/></a>
   
-</div> <hr>
+</div> <hr>-->
 
 My social media:
 <div>
